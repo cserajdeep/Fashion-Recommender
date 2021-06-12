@@ -5,4 +5,4 @@ Transfer learning is basically taking features learned on one problem, and lever
 
 <img width="494" alt="fashionvgg16" src="https://user-images.githubusercontent.com/18000553/121786603-7faaa480-cbde-11eb-856d-953e1f7b9a44.png">
 
-# Fashion Reccomender
+# Fashion Recommender
